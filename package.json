@@ -1,5 +1,5 @@
 {
-	"name": "@sirmctickets/common-tickets",
+	"name": "@sirmctickets/common",
 	"version": "1.0.0",
 	"description": "",
 	"main": "./build/index.js",
